@@ -147,7 +147,8 @@ Eventverse is a revolutionary blockchain-based ticketing platform engineered to 
  <img width="960" alt="Screenshot 2025-01-21 151643" src="https://github.com/user-attachments/assets/a222522c-71fc-47df-b6f0-a775ed58cd11" />
 
 4. **Ticket Minting**
-   <img width="959" alt="Screenshot 2025-01-21 151623" src="https://github.com/user-attachments/assets/f773d40b-760f-4021-aaf0-0ea4d87e677e" />
+   <img width="959" alt="<img width="921" height="614" alt="image" src="https://github.com/user-attachments/assets/f88971b6-3abd-4357-a569-78fe73fe40cf" />
+" src="https://github.com/user-attachments/assets/f773d40b-760f-4021-aaf0-0ea4d87e677e" />
 
 4. **QR code Intergration**
    <img width="947" alt="Screenshot 2025-01-21 162251" src="https://github.com/user-attachments/assets/99520049-8a10-4ae3-b538-2e6b0bc5df7b" />
