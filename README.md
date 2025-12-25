@@ -92,7 +92,7 @@ Eventverse is a revolutionary blockchain-based ticketing platform engineered to 
    npx hardhat compile
    ```
 
-4. **Configure Avalanche network:**
+4. **Configure Mantle Network:**
    Edit `hardhat.config.js` to include Avalanche network details under the `networks` section.
 
 5. **Deploy contracts:**
